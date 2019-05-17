@@ -14,6 +14,7 @@ The objective is to rewrite the Bike Sharing analysis done in the Python for Sta
 * **Training data**: whole 2011 and first 3 quarters of 2012.
 * **Test data**: 4th quarter of 2012.  Do not fit your models with these data! They should just be used to see how good/bad your model predictions are.
 * **Error metric**: R2 score (scikit-learn's default for regression).
+* **Running Time**: 00:10:11
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
